@@ -3,8 +3,8 @@
   "version" : "1.1.0",
   "sevkey" : "notset",
   "isAd":"false",
-  "isEx":"true",
+  "isEx":"false",
   "isCheck":"false",
-  "isCommentTime":"true",
+  "isCommentTime":"false",
   "firstTime":3,
 }</span>
