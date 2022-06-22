@@ -5,6 +5,6 @@
   "isAd":"false",
   "isEx":"true",
   "isCheck":"false",
-  "isCommentTime":"true",
+  "isCommentTime":"false",
   "firstTime":3,
 }</span>
