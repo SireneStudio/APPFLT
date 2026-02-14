@@ -1,9 +1,9 @@
 <span id = 'versionData'>data = {
   "appId" : "100",
-  "version" : "1.1.2",
+  "version" : "1.6.0",
   "sevkey" : "notset",
   "isAd":"false",
-  "isEx":"true",
+  "isEx":"false",
   "isCheck":"false",
   "isCommentTime":"false",
   "firstTime":3,
